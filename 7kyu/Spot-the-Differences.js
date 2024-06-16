@@ -21,6 +21,4 @@ function spot_diff(st1, st2){
     
 }
 console.log(spot_diff('abcdefg', 'abcqetg'));
-//tests
-
-
+  
